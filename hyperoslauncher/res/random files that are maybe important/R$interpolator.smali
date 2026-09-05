@@ -1,10 +1,10 @@
-.class public final Lcom/miui/miuiwidget/R$interpolator;
+.class public final Lcom/market/sdk/R$interpolator;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/miui/miuiwidget/R;
+    value = Lcom/market/sdk/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
